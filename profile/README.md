@@ -1,6 +1,6 @@
 # Data for change makers
 
-An umbrella organisation for incubating open data projects
+An umbrella microsite for incubating open data projects initiated by West London Business. 
 
 We currently host the following repositories:
 
